@@ -1,0 +1,1 @@
+make map in dame with bigger sky tiles
